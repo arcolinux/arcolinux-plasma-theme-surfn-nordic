@@ -2,10 +2,10 @@
 widgetStyle=Nordic-Darker
 
 [kdeglobals][General]
-ColorScheme=Nordic-Darker
+ColorScheme=NordicDarker
 
 [kdeglobals][Icons]
-Theme=Surfn-Plasma-Dark
+Theme=Surfn-Plasma-Dark-Qogir
 
 [plasmarc][Theme]
 name=Nordic

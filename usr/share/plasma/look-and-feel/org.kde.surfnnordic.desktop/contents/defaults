@@ -2,13 +2,13 @@
 widgetStyle=Nordic-Darker
 
 [kdeglobals][General]
-ColorScheme=ArcDark
+ColorScheme=Nordic-Darker
 
 [kdeglobals][Icons]
 Theme=Surfn-Plasma-Dark
 
 [plasmarc][Theme]
-name=Nordic-Darker
+name=Nordic
 
 [Wallpaper]
 Image=Next
@@ -18,7 +18,7 @@ cursorTheme=Breeze_Light
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Nordic-Darker
+theme=__aurorae__svg__Nordic
 
 [KSplash]
 Theme=org.kde.Breeze
